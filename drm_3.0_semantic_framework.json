@@ -1,0 +1,1025 @@
+{
+  "system_stats": {
+    "cycles": 404,
+    "data_processed": 99,
+    "rules_created": 0,
+    "learning_efficiency": 0.0
+  },
+  "drm_rules": [],
+  "construction_log": [
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:01:24.867152",
+      "cycle": 336,
+      "drm_strength": 100.0,
+      "rules_count": 339
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:01:31.010195",
+      "cycle": 337,
+      "drm_strength": 100.0,
+      "rules_count": 340
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:01:36.867818",
+      "cycle": 338,
+      "drm_strength": 100.0,
+      "rules_count": 341
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:01:44.565845",
+      "cycle": 339,
+      "drm_strength": 100.0,
+      "rules_count": 342
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:01:50.430335",
+      "cycle": 340,
+      "drm_strength": 100.0,
+      "rules_count": 343
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:02:01.657312",
+      "file": "Baśnie Hans Christian Andersen.txt",
+      "insights": {
+        "word_count": 50328,
+        "unique_words": 1000,
+        "avg_word_length": 5.199908599586712,
+        "sentence_count": 2514,
+        "key_patterns": [
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:02:08.724577",
+      "cycle": 341,
+      "drm_strength": 100.0,
+      "rules_count": 344
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:02:14.613665",
+      "cycle": 342,
+      "drm_strength": 100.0,
+      "rules_count": 345
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:02:20.949876",
+      "cycle": 343,
+      "drm_strength": 100.0,
+      "rules_count": 346
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:02:31.374957",
+      "file": "biografie i osoby.txt",
+      "insights": {
+        "word_count": 2619,
+        "unique_words": 1000,
+        "avg_word_length": 6.280641466208476,
+        "sentence_count": 228,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:02:37.128146",
+      "cycle": 344,
+      "drm_strength": 100.0,
+      "rules_count": 347
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:02:43.677203",
+      "cycle": 345,
+      "drm_strength": 100.0,
+      "rules_count": 348
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:02:55.488156",
+      "file": "en_english grama.txt",
+      "insights": {
+        "word_count": 8620,
+        "unique_words": 1000,
+        "avg_word_length": 5.110672853828306,
+        "sentence_count": 742,
+        "key_patterns": [
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:03:01.349837",
+      "cycle": 346,
+      "drm_strength": 100.0,
+      "rules_count": 349
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:03:07.151002",
+      "cycle": 347,
+      "drm_strength": 100.0,
+      "rules_count": 350
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:03:13.057678",
+      "cycle": 348,
+      "drm_strength": 100.0,
+      "rules_count": 351
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:03:24.357751",
+      "file": "En_words.txt",
+      "insights": {
+        "word_count": 3820,
+        "unique_words": 1000,
+        "avg_word_length": 4.729581151832461,
+        "sentence_count": 18,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:03:30.492632",
+      "cycle": 349,
+      "drm_strength": 100.0,
+      "rules_count": 352
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:03:37.078348",
+      "cycle": 350,
+      "drm_strength": 100.0,
+      "rules_count": 353
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:03:49.250890",
+      "file": "Ideografia Relacyjna.txt",
+      "insights": {
+        "word_count": 3092,
+        "unique_words": 1000,
+        "avg_word_length": 6.081824062095731,
+        "sentence_count": 327,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:03:55.775333",
+      "cycle": 351,
+      "drm_strength": 100.0,
+      "rules_count": 354
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:04:03.185704",
+      "cycle": 352,
+      "drm_strength": 100.0,
+      "rules_count": 355
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:04:14.091958",
+      "file": "Konsola cmd.txt",
+      "insights": {
+        "word_count": 18055,
+        "unique_words": 1000,
+        "avg_word_length": 6.42664081971753,
+        "sentence_count": 1581,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:04:20.351325",
+      "cycle": 353,
+      "drm_strength": 100.0,
+      "rules_count": 356
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:04:26.558895",
+      "cycle": 354,
+      "drm_strength": 100.0,
+      "rules_count": 357
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:04:33.186271",
+      "cycle": 355,
+      "drm_strength": 100.0,
+      "rules_count": 358
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:04:46.873262",
+      "file": "Matematyka dla Informatyka.txt",
+      "insights": {
+        "word_count": 13231,
+        "unique_words": 1000,
+        "avg_word_length": 4.878693976267856,
+        "sentence_count": 679,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:04:53.573631",
+      "cycle": 356,
+      "drm_strength": 100.0,
+      "rules_count": 359
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:05:09.505425",
+      "file": "Python i programowanie.txt",
+      "insights": {
+        "word_count": 20866,
+        "unique_words": 1000,
+        "avg_word_length": 6.811271925620627,
+        "sentence_count": 2016,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:05:15.930504",
+      "cycle": 357,
+      "drm_strength": 100.0,
+      "rules_count": 360
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:05:36.110171",
+      "file": "procesy i działania.txt",
+      "insights": {
+        "word_count": 6384,
+        "unique_words": 1000,
+        "avg_word_length": 6.1135651629072685,
+        "sentence_count": 433,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:05:42.504676",
+      "cycle": 358,
+      "drm_strength": 100.0,
+      "rules_count": 361
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:06:00.033175",
+      "file": "psychika i filozofia.txt",
+      "insights": {
+        "word_count": 6523,
+        "unique_words": 1000,
+        "avg_word_length": 6.3450866165874595,
+        "sentence_count": 524,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:06:07.312601",
+      "cycle": 359,
+      "drm_strength": 100.0,
+      "rules_count": 362
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:06:22.886323",
+      "file": "Zbiory z różnych dziedzin.txt",
+      "insights": {
+        "word_count": 13822,
+        "unique_words": 1000,
+        "avg_word_length": 6.1564896541745044,
+        "sentence_count": 1248,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:06:29.441642",
+      "cycle": 360,
+      "drm_strength": 100.0,
+      "rules_count": 363
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:06:40.881322",
+      "file": "statystyki i fakty.txt",
+      "insights": {
+        "word_count": 19286,
+        "unique_words": 1000,
+        "avg_word_length": 5.623716685678731,
+        "sentence_count": 1921,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:06:47.396403",
+      "cycle": 361,
+      "drm_strength": 100.0,
+      "rules_count": 364
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:07:08.826901",
+      "file": "semi_ascii_art_32.txt",
+      "insights": {
+        "word_count": 16716,
+        "unique_words": 1000,
+        "avg_word_length": 20.2199090691553,
+        "sentence_count": 29460,
+        "key_patterns": [
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:07:16.288719",
+      "cycle": 362,
+      "drm_strength": 100.0,
+      "rules_count": 365
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:07:28.974349",
+      "file": "słowniczek prosty2.txt",
+      "insights": {
+        "word_count": 14271,
+        "unique_words": 1000,
+        "avg_word_length": 6.426249036507603,
+        "sentence_count": 1014,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:07:36.588050",
+      "cycle": 363,
+      "drm_strength": 100.0,
+      "rules_count": 366
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:07:48.753374",
+      "file": "semi_ascii_art_256.txt",
+      "insights": {
+        "word_count": 4588,
+        "unique_words": 1000,
+        "avg_word_length": 229.3792502179599,
+        "sentence_count": 157354,
+        "key_patterns": [
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:07:55.672418",
+      "cycle": 364,
+      "drm_strength": 100.0,
+      "rules_count": 367
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:08:03.882198",
+      "cycle": 365,
+      "drm_strength": 100.0,
+      "rules_count": 368
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:08:17.397172",
+      "file": "MultiInfo.txt",
+      "insights": {
+        "word_count": 141327,
+        "unique_words": 1000,
+        "avg_word_length": 6.199324969751003,
+        "sentence_count": 11309,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:08:24.673583",
+      "cycle": 366,
+      "drm_strength": 100.0,
+      "rules_count": 369
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:08:31.735907",
+      "cycle": 367,
+      "drm_strength": 100.0,
+      "rules_count": 370
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:08:38.575477",
+      "cycle": 368,
+      "drm_strength": 100.0,
+      "rules_count": 371
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:08:48.064992",
+      "cycle": 369,
+      "drm_strength": 100.0,
+      "rules_count": 372
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:08:55.232421",
+      "cycle": 370,
+      "drm_strength": 100.0,
+      "rules_count": 373
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:09:08.895569",
+      "file": "Beatrix.txt",
+      "insights": {
+        "word_count": 641,
+        "unique_words": 357,
+        "avg_word_length": 5.546021840873635,
+        "sentence_count": 27,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:09:16.604385",
+      "cycle": 371,
+      "drm_strength": 100.0,
+      "rules_count": 374
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:09:23.688346",
+      "cycle": 372,
+      "drm_strength": 100.0,
+      "rules_count": 375
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:09:30.885444",
+      "cycle": 373,
+      "drm_strength": 100.0,
+      "rules_count": 376
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:09:40.446904",
+      "cycle": 374,
+      "drm_strength": 100.0,
+      "rules_count": 377
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:09:50.763401",
+      "cycle": 375,
+      "drm_strength": 100.0,
+      "rules_count": 378
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:10:06.262379",
+      "file": "Sekretne.txt",
+      "insights": {
+        "word_count": 817145,
+        "unique_words": 1000,
+        "avg_word_length": 5.154201518702311,
+        "sentence_count": 51544,
+        "key_patterns": [
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:10:17.282859",
+      "cycle": 376,
+      "drm_strength": 100.0,
+      "rules_count": 379
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:10:43.990349",
+      "file": "dialogi - frazy.txt",
+      "insights": {
+        "word_count": 10462,
+        "unique_words": 1000,
+        "avg_word_length": 5.745650927164978,
+        "sentence_count": 1072,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:10:51.631826",
+      "cycle": 377,
+      "drm_strength": 100.0,
+      "rules_count": 380
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:11:08.417413",
+      "file": "procesy i działania.txt",
+      "insights": {
+        "word_count": 6384,
+        "unique_words": 1000,
+        "avg_word_length": 6.1135651629072685,
+        "sentence_count": 433,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:11:16.411693",
+      "cycle": 378,
+      "drm_strength": 100.0,
+      "rules_count": 381
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:11:29.547549",
+      "cycle": 379,
+      "drm_strength": 100.0,
+      "rules_count": 382
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:11:38.813341",
+      "cycle": 380,
+      "drm_strength": 100.0,
+      "rules_count": 383
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:11:49.690127",
+      "cycle": 381,
+      "drm_strength": 100.0,
+      "rules_count": 384
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:11:57.615890",
+      "cycle": 382,
+      "drm_strength": 100.0,
+      "rules_count": 385
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:12:05.608574",
+      "cycle": 383,
+      "drm_strength": 100.0,
+      "rules_count": 386
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:12:13.335576",
+      "cycle": 384,
+      "drm_strength": 100.0,
+      "rules_count": 387
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:12:21.397503",
+      "cycle": 385,
+      "drm_strength": 100.0,
+      "rules_count": 388
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:12:29.420894",
+      "cycle": 386,
+      "drm_strength": 100.0,
+      "rules_count": 389
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:12:43.515162",
+      "file": "Konsola cmd.txt",
+      "insights": {
+        "word_count": 18055,
+        "unique_words": 1000,
+        "avg_word_length": 6.42664081971753,
+        "sentence_count": 1581,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:12:58.376219",
+      "cycle": 387,
+      "drm_strength": 100.0,
+      "rules_count": 390
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:13:18.294076",
+      "file": "Słownik AA.txt",
+      "insights": {
+        "word_count": 8474,
+        "unique_words": 1000,
+        "avg_word_length": 6.663795138069388,
+        "sentence_count": 1282,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:13:26.650806",
+      "cycle": 388,
+      "drm_strength": 100.0,
+      "rules_count": 391
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:13:36.996144",
+      "cycle": 389,
+      "drm_strength": 100.0,
+      "rules_count": 392
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:13:46.055185",
+      "cycle": 390,
+      "drm_strength": 100.0,
+      "rules_count": 393
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:14:07.121821",
+      "file": "Matma.txt",
+      "insights": {
+        "word_count": 6552,
+        "unique_words": 1000,
+        "avg_word_length": 5.890262515262515,
+        "sentence_count": 531,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:14:15.253097",
+      "cycle": 391,
+      "drm_strength": 100.0,
+      "rules_count": 394
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:14:23.624799",
+      "cycle": 392,
+      "drm_strength": 100.0,
+      "rules_count": 395
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:14:46.101346",
+      "cycle": 393,
+      "drm_strength": 100.0,
+      "rules_count": 396
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:15:13.845955",
+      "file": "pytania i odpowiedzi.txt",
+      "insights": {
+        "word_count": 10470,
+        "unique_words": 1000,
+        "avg_word_length": 5.805826170009551,
+        "sentence_count": 788,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:15:26.990857",
+      "cycle": 394,
+      "drm_strength": 100.0,
+      "rules_count": 397
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:15:47.208829",
+      "file": "Beatrix.txt",
+      "insights": {
+        "word_count": 641,
+        "unique_words": 357,
+        "avg_word_length": 5.546021840873635,
+        "sentence_count": 27,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:15:55.761288",
+      "cycle": 395,
+      "drm_strength": 100.0,
+      "rules_count": 398
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:16:11.196575",
+      "file": "MultiInfo.txt",
+      "insights": {
+        "word_count": 141327,
+        "unique_words": 1000,
+        "avg_word_length": 6.199324969751003,
+        "sentence_count": 11309,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:16:21.004581",
+      "cycle": 396,
+      "drm_strength": 100.0,
+      "rules_count": 399
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:16:51.614264",
+      "file": "Zbiory z różnych dziedzin.txt",
+      "insights": {
+        "word_count": 13822,
+        "unique_words": 1000,
+        "avg_word_length": 6.1564896541745044,
+        "sentence_count": 1248,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:17:00.290420",
+      "cycle": 397,
+      "drm_strength": 100.0,
+      "rules_count": 400
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:17:16.810448",
+      "file": "multi_mini_wiki.txt",
+      "insights": {
+        "word_count": 40143,
+        "unique_words": 1000,
+        "avg_word_length": 6.6000049821886755,
+        "sentence_count": 2697,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:17:26.569193",
+      "cycle": 398,
+      "drm_strength": 100.0,
+      "rules_count": 401
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:17:53.616978",
+      "file": "Beatrix.txt",
+      "insights": {
+        "word_count": 641,
+        "unique_words": 357,
+        "avg_word_length": 5.546021840873635,
+        "sentence_count": 27,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:18:05.305463",
+      "cycle": 399,
+      "drm_strength": 100.0,
+      "rules_count": 402
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:18:14.702438",
+      "cycle": 400,
+      "drm_strength": 100.0,
+      "rules_count": 403
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:18:34.679971",
+      "file": "MultiInfo.txt",
+      "insights": {
+        "word_count": 141327,
+        "unique_words": 1000,
+        "avg_word_length": 6.199324969751003,
+        "sentence_count": 11309,
+        "key_patterns": [
+          "Wzorzec systemowy",
+          "Wzorzec uczenia się",
+          "Wzorzec AI"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:18:43.332248",
+      "cycle": 401,
+      "drm_strength": 100.0,
+      "rules_count": 404
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:18:52.182972",
+      "cycle": 402,
+      "drm_strength": 100.0,
+      "rules_count": 405
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:19:02.348821",
+      "cycle": 403,
+      "drm_strength": 100.0,
+      "rules_count": 406
+    },
+    {
+      "type": "data_processing",
+      "timestamp": "2025-08-26T03:19:17.280392",
+      "file": "semantyka.txt",
+      "insights": {
+        "word_count": 1418,
+        "unique_words": 656,
+        "avg_word_length": 5.771509167842031,
+        "sentence_count": 28,
+        "key_patterns": [
+          "Wzorzec systemowy"
+        ],
+        "learning_opportunity": 4
+      },
+      "drm_strength": 100.0
+    },
+    {
+      "type": "self_construction",
+      "timestamp": "2025-08-26T03:19:27.094454",
+      "cycle": 404,
+      "drm_strength": 100.0,
+      "rules_count": 407
+    }
+  ],
+  "timestamp": "2025-08-26T03:19:48.576740"
+}
