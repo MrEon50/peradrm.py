@@ -1,4 +1,4 @@
-# PERA-DRM 3.0 🚀
+# PERA-DRM 🚀 DRM 3.0
 
 **Permutation-Equivariant Residual Architecture + Dynamic Rules Matrix 3.0**
 
